@@ -7,4 +7,4 @@ RUN set -x && \
     apk add --no-cache nginx && \
     apk add --no-cache python && \
 
-CMD [ "/bin/sh" ]
+#CMD [ "/bin/sh" ]
